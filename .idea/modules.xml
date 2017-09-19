@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fuzhu.iml" filepath="$PROJECT_DIR$/Fuzhu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/degger2/degger2.iml" filepath="$PROJECT_DIR$/degger2/degger2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kuangjiamvp+ret+rxjava/kuangjiamvp+ret+rxjava.iml" filepath="$PROJECT_DIR$/kuangjiamvp+ret+rxjava/kuangjiamvp+ret+rxjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofit/retrofit.iml" filepath="$PROJECT_DIR$/retrofit/retrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shangchuantouxiang/shangchuantouxiang.iml" filepath="$PROJECT_DIR$/shangchuantouxiang/shangchuantouxiang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zidingyiview/zidingyiview.iml" filepath="$PROJECT_DIR$/zidingyiview/zidingyiview.iml" />
+    </modules>
+  </component>
+</project>
